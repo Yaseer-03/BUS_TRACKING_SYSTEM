@@ -628,7 +628,7 @@ h1 {
     padding-right: 30px;
     justify-content: space-between;
     align-items: left;
-    font-size: larger;
+    font-size: 20px;
     text-align: center;
     gap: 1px;
   }
