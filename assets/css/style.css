@@ -625,10 +625,10 @@ h1 {
   .header .container h2 a{
     content: "sjcet-BTS";
     display:flex;
-    padding-right: 30px;
+    padding-right: 45px;
     justify-content: space-between;
     align-items: left;
-    font-size: 20px;
+    font-size: 50px;
     text-align: center;
     gap: 1px;
   }
