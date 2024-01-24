@@ -539,7 +539,7 @@ h1 {
 
 .footer-top {
   display: grid;
-  gap: 40px;
+  gap:  20px;
 }
 
 .footer .logo {
