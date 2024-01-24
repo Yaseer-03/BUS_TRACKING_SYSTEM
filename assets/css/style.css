@@ -569,7 +569,7 @@ h1 {
 .footer-link { padding-block: 6px; }
 
 .footer-bottom {
-  padding-block: 40px;
+  padding-block: 30px;
   border-block-start: 1px solid var(--prussian-blue);
   font-size: var(--fs-9);
   color: var(--indigo-dye);
